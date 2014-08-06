@@ -2,8 +2,8 @@
 #
 # Version 0.1
 
-FROM ubuntu:quantal
-MAINTAINER Jannis Leidel "jannis@leidel.info"
+FROM ubuntu:trusty
+MAINTAINER Nick Richardson "richa283@uwm.edu"
 
 ENV DEBIAN_FRONTEND noninteractive
 
